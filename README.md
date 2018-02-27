@@ -16,7 +16,7 @@ return [
         ......
         'providers'           => [
             ......
-            \UniondrugCache\CacheServiceProvider::class,
+            \Uniondrug\\Cache\CacheServiceProvider::class,
         ],
     ],
 ];

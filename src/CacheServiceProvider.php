@@ -1,6 +1,6 @@
 <?php
 
-namespace UniondrugCache;
+namespace Uniondrug\Cache;
 
 use Phalcon\Cache\Frontend\Data;
 use Phalcon\Cache\Frontend\Igbinary;
