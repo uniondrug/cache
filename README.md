@@ -8,7 +8,7 @@ $ composer require uniondrug/cache
 $ cp vendor/uniondrug/cache/cache.php config/
 ```
 
-修改 `app.php` 配置文件，加上Cache服务
+修改 `app.php` 配置文件，加上Cache服务，服务名称`cache`
 
 ```php
 return [
